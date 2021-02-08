@@ -1,3 +1,4 @@
+alert('Data will removed after Refresh'); 
 const addForm=document.querySelector('.add');
 const list=document.querySelector('.todos');
 const search=document.querySelector('.search input');
